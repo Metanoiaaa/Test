@@ -1,7 +1,7 @@
 print("hello world!")
 
 def function1():
-    print("in functie 1")
+    print("in functi e 1")
 
 def function2(naam):
     print("Mijn naam is " + naam)
